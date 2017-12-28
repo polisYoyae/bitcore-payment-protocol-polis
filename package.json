@@ -44,12 +44,12 @@
   "browser": "lib/browser.js",
   "dependencies": {
     "asn1.js": "=4.5.2",
-    "bitcore-lib-polis": "^0.14.0",
+    "bitcore-lib-polis": "latest",
     "jsrsasign": "=5.0.10",
     "protobufjs": "=5.0.1"
   },
   "devDependencies": {
-    "bitcore-build-polis": "git://github.com/polispay/bitcore-build-polis.git#0125d7646a40fcb6c1e904ca48a4f24f2dab4320",
+    "bitcore-build-polis": "latest",
     "brfs": "^1.2.0",
     "chai": "~1.10.0",
     "gulp": "^3.8.10",
